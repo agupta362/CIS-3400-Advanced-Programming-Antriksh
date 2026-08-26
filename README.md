@@ -13,7 +13,5 @@ Write one or two sentences about you, and what's in this repository.
 Focus: Running cells in Colab, loading a dataset with pandas, and making a plot.<br>
  <a href="https://colab.research.google.com/github/agupta362/CIS-3400-Advanced-Programming-Antriksh/blob/main/CIS3400_Week1_Colab_Quick_Start_Penguins_ML.ipynb">Mining the Palmer Penguins Dataset</a>
 
-### Week 2:
-
 
 ## End
