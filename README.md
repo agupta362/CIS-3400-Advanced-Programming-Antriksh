@@ -4,7 +4,7 @@
 
 ## About This Repository
 
-Write one or two sentences about you, and what's in this repository.
+I’m a CS student interested in learning new technologies. This repository contains my work for CIS 3400 Advanced Programming.
 
 ## Notebooks
 
